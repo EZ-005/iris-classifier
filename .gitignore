@@ -16,3 +16,9 @@ outputs/
 # OS/Editor
 .DS_Store
 .vscode/
+# Anaconda Navigator junk
+anaconda_projects/
+*.db
+
+# Random notebooks at root (optional)
+Untitled*.ipynb
